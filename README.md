@@ -1,1 +1,1 @@
-# Assinments_devops_intelli
+# Assignments_devops_intelli
